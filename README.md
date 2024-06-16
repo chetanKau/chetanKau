@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/chetanKau?tab=repositories](https://github.com/chetanKau?tab=repositories)
 
-- 💬 Ask me about **DSA(in Java), ReactJS, Java Script, TailwindCSS**
+- 💬 Ask me about **DSA(in Java), React.JS, Java Script, Node.JS, Express.JS, MongoDB, TailwindCSS, Bootsrap, Figma**
 
 - 📫 How to reach me **chetankaushik29@gmail.com**
 

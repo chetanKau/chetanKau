@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chetankau&label=Profile%20views&color=0e75b6&style=flat" alt="chetankau" /> </p>
 
-- 🌱 Hi, Now I'm a **MERN Stack Developer**
+- 🌱 Hi, I'm a **MERN Stack Developer**
 
 - 👨‍💻 All of my projects are available at [https://github.com/chetanKau?tab=repositories](https://github.com/chetanKau?tab=repositories)
 
